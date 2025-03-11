@@ -1,0 +1,23 @@
+body{
+ background-color: white;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+header{
+background-color: rgb(132, 134, 145);
+padding: 10px;
+}
+
+.topo{  
+
+background-color: rgb(132, 134, 145) ;
+
+    
+}
+
+.amarelo{
+background-image:url(Capturar.PNG) ;
+padding: 10px;
+
+}
